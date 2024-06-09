@@ -1,0 +1,39 @@
+# QUESTIONS PRACTISED FOR SQL ANALYSIS 
+
+# Beginner Level
+
+1. **Select all records from the dataset.**
+2. **Select the `track_name`, `artist_name`, and `streams` columns.**
+3. **Find all songs released in the year 2023.**
+4. **Count the number of songs released in the year 2023.**
+5. **Order songs by the number of streams in descending order.**
+6. **Find the song with the highest number of streams.**
+7. **Calculate the average number of streams for all songs.**
+8. **List the names of songs that are in the Spotify charts.**
+9. **Select songs where `mode` is 'Major'.**
+10. **Find songs with `danceability` greater than 70%.**
+
+#Intermediate Level
+
+1. **Find the total number of streams for each artist.**
+2. **Group songs by `released_year` and count the number of songs for each year.**
+3. **Find the average `valence` for songs released in 2023.**
+4. **Find the song with the highest `bpm`.**
+5. **Select the top 5 songs with the highest `energy`.**
+6. **List all songs with `streams` greater than 100 million.**
+7. **Find the total number of playlists (across all platforms) that each song is in.**
+8. **Count the number of songs that are in both Spotify and Apple playlists.**
+9. **Calculate the percentage of songs in the dataset that are in a `minor` key.**
+10. **Find songs where `speechiness` is less than 10%.**
+
+#Advanced Level
+
+1. **Identify the artist with the most songs in the dataset.**
+2. **Find the artist with the highest average number of streams per song.**
+3. **Calculate the average `danceability`, `energy`, and `acousticness` for songs in a `minor` key.**
+4. **List songs that appear in the top 10 of Shazam charts but not in Spotify charts.**
+5. **Find the total number of streams for each year, ordered by year.**
+6. **Identify the songs that are in the top 10 of Deezer charts and the top 20 of Apple charts.**
+7. **Find the song with the highest `instrumentalness`.**
+8. **Calculate the average `liveness` for songs in the dataset.**
+9. **List the names of all songs released in the month of March.**
